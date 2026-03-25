@@ -1,6 +1,7 @@
 /*
   Blink
   #JAY KHAMAR was here!!!!!
+  #TIM GREEN was here!!!!!!!
 
   Turns an LED on for one second, then off for one second, repeatedly.
 #MESSI IS THE GOAT
